@@ -7,7 +7,7 @@
 
 Aqui está um projeto que desenvolvi com o objetivo de facilitar a comunicação entre cliente e profissionais, inspirado no design do site [Frontend Mentor](https://www.frontendmentor.io) !!
 
-![Imagem do site](./images/desktop-preview.jpg)
+![Imagem do site](./img/desktop-preview.jpg)
 
 ## Sumário
 
